@@ -1,0 +1,12 @@
+{
+  "name": "json-schema-flatten",
+  "version": "0.1.0",
+  "description": "Flatten JSON Schema",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Pirmin Kalberer",
+  "license": "MIT",
+  "dependencies": {
+    "@apidevtools/json-schema-ref-parser": "^9.0.7"
+  }
+}
